@@ -81,4 +81,9 @@ var fullName = $"{typedPerson.FirstName} {typedPerson.LastName}";
 
 ## Credit
 
-- All I did was the wrapper Unity Package; full credit goes to bleroy, ljardin, and everyone else who worked on the original Clay and CastleWindsor packages. Thanks guys!
+- All I did was the wrapper Unity Package; full credit goes to everyone who worked on the original Clay and CastleWindsor packages. Thanks guys!
+- - @loudej
+- - @bleroy
+- - @andrerod
+- - @sebastienros
+- For Unity specific questions, you can reach me here: @jdselig
