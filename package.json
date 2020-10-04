@@ -1,0 +1,11 @@
+{
+  "name": "com.clay-unity",
+  "version": "0.0.1",
+  "displayName": "ClayUnity",
+  "unity": "2019.4",
+  "author": {
+    "name": "Archetype",
+    "email": "jds@archetype.gd",
+    "url": "https://archetype.gd"
+  }
+}
